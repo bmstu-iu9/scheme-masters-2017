@@ -1,0 +1,3 @@
+(define (f) "foo")
+(define (f x y) (* x y))
+(define (f x y) (* x y) (+ y x) (- x y))
