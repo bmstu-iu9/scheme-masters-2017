@@ -1,0 +1,4 @@
+(cond)
+(cond ((> 2 1)))
+(cond ((> 2 1)(display 1)))
+(cond ((> 2 1)(display 1))(else (display 'else)))
